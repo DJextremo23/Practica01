@@ -65,7 +65,7 @@
             android:horizontalSpacing="10dp"
             android:numColumns="2"
             android:stretchMode="columnWidth"
-            android:verticalSpacing="10dp"></GridView>
+            android:verticalSpacing="19dp"></GridView>
 
     </LinearLayout>
 </ScrollView>
